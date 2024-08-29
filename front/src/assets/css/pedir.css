@@ -1,0 +1,125 @@
+#pedir .table {
+    font-size: 1.5rem;
+}
+#pedir .form-title{
+    font-family: "Work Sans",sans-serif;
+    font-size: 1.7rem;
+    margin: 0 0 1.5rem;
+    font-weight: 500;
+}
+#pedir .custom-radio {
+    border: 2px solid #dedede;
+    padding: .5rem 1rem;
+    margin: 0 .5rem;
+    background-color: #fff;
+    display: flex;
+    align-items: center; 
+}
+#pedir .navbar{
+	background-color:#FFF; 
+}
+#pedir .nav-link{
+	color:black;
+}
+#pedir .logo{
+    height: 8rem;
+    width: auto;
+    padding: .5rem;
+}
+#pedir .jumbotron-grid {
+    display: flex;
+    background-color: #fff;
+    height: 40rem;
+}
+#pedir .picture{
+    flex: 0 0 50%;
+}
+#pedir .image{
+    width: 100%;
+    height: 100%;
+}
+#pedir .bg-pattern{
+    flex: 0 0 50%;
+    background-color: #005823;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#pedir .text-container{
+    margin: 0 10rem;
+}
+#pedir .text-container .title{
+    color: #fff;
+    font-size: 1.8rem;
+}
+#pedir .text-container .content{
+    color: #a4c465;
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 35px;
+}
+body #pedir, #pedir h1, #pedir h2, #pedir h3, #pedir h4, #pedir h5, #pedir h6 {
+    font-weight: 300;
+}
+#pedir h1, #pedir h2, #pedir h3, #pedir h4, #pedir h5, #pedir h6 {
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+body #pedir, html #pedir{
+  box-sizing: border-box;
+  font-size: 10px!important;
+  font-family: Rubik,sans-serif;
+  background-color: #f8f8f8;
+}
+#pedir .text-input {
+    background-color: #fff!important;
+}
+
+#pedir .select-input,#pedir .text-input {
+    border: 2px solid #dedede!important;
+    height: 4rem;
+    font-size: 1.5rem;
+}
+#pedir .others-2,#pedir .is-rounded{
+	background-color: #FFF !important;
+	border: 2px solid #dedede!important;
+    height: 4rem;
+    font-size: 1.5rem;
+}
+#pedir .nav-item{
+	padding-top: 25px;
+}
+#pedir #div_hora{
+	padding:4px;
+	background-color: #FFF;
+	height: 310px;
+	overflow-x: auto;
+	text-align:justify;
+}
+#pedir #div_hora::-webkit-scrollbar{
+	width: 20px;
+}
+#pedir #div_hora::-webkit-scrollbar-thumb {
+    background: #C3C3C3;
+    border-radius: 10px;
+}
+#pedir .pre-header{background-color:#005823;height:4rem;display:flex;justify-content:flex-end}#pedir .pre-header-item{color:#c1d6c9!important;padding:1rem;font-size:1.2rem}#pedir .custom-nav{background-color:#fff;padding:1rem .5rem;height:8rem}#pedir .nav-item{color:#2f302f;text-transform:uppercase;font-variant:all-petite-caps;font-weight:700}#pedir .logo{height:8rem;width:auto;padding:.5rem}#pedir .menu-option{color:#2f302f;font-variant:all-petite-caps;font-size:1.5rem}#pedir .menu-option:hover{color:#a4c465;background-color:transparent}#pedir .appointment-btn{border:2px solid #a4c465;background-color:transparent;color:#000;margin:0 1.5rem;padding:1rem;width:12rem;border-radius:30rem;height:auto;line-height:1;font-weight:700;font-size:1.3rem}#pedir .nav-link{font-size:1.25rem;font-weight:500}#pedir .pre-header{background-color:#005823;height:4rem;display:flex;justify-content:flex-end}#pedir .pre-header-item{color:#c1d6c9!important;padding:1rem;font-size:1.2rem}#pedir .custom-nav{background-color:#fff;padding:1rem .5rem;height:8rem}#pedir .nav-item{color:#2f302f;text-transform:uppercase;font-variant:all-petite-caps;font-weight:700}#pedir .logo{height:8rem;width:auto;padding:.5rem}#pedir .menu-option{color:#2f302f;font-variant:all-petite-caps;font-size:1.5rem}#pedir .menu-option:hover{color:#a4c465;background-color:transparent}#pedir .appointment-btn{border:2px solid #a4c465;background-color:transparent;color:#000;margin:0 1.5rem;padding:1rem;width:12rem;border-radius:30rem;height:auto;line-height:1;font-weight:700;font-size:1.3rem}#pedir .nav-link{font-size:1.25rem;font-weight:500}
+#pedir .form-type{display:flex}#pedir .custom-radio{border:2px solid #dedede;padding:.5rem 1rem;margin:0 .5rem;background-color:#fff;display:flex;align-items:center}#pedir .custom-radio   .form-type-option{width:2rem;height:2rem}#pedir .custom-radio   .form-type-option:checked{background-color:green}#pedir .custom-radio   .form-type-option::after{background-color:pink}#pedir .custom-radio   .radio-label{color:#212529;font-size:1.7rem;margin:0 0 0 1rem}#pedir .form-title{font-family:"Work Sans",sans-serif;font-size:1.7rem;margin:0 0 1.5rem;font-weight:500}#pedir .form-cluster{margin:1.5rem 0}label{display:flex;align-items:center;justify-content:space-between}@media (max-width:991px){.form-type{flex-direction:column}#pedir .custom-radio{margin-bottom:1rem}#pedir .contact-us{margin-top:5rem}}#pedir .form-type{display:flex}#pedir .custom-radio{border:2px solid #dedede;padding:.5rem 1rem;margin:0 .5rem;background-color:#fff;display:flex;align-items:center}#pedir .custom-radio   .form-type-option{width:2rem;height:2rem}#pedir .custom-radio   .form-type-option:checked{background-color:green}#pedir .custom-radio   .form-type-option::after{background-color:pink}#pedir .custom-radio   .radio-label{color:#212529;font-size:1.7rem;margin:0 0 0 1rem}#pedir .form-title{font-family:"Work Sans",sans-serif;font-size:1.7rem;margin:0 0 1.5rem;font-weight:500}#pedir .form-cluster{margin:1.5rem 0}label{display:flex;align-items:center;justify-content:space-between}@media (max-width:991px){.form-type{flex-direction:column}#pedir .custom-radio{margin-bottom:1rem}#pedir .contact-us{margin-top:5rem}}
+#pedir .form-title{font-family:"Work Sans",sans-serif;font-size:1.7rem;margin:0 0 1.5rem;font-weight:500}#pedir .form-sub-title{font-size:1.7rem;color:#212529;margin-bottom:1rem}#pedir .form-label{font-family:"Work Sans",sans-serif;color:#000;font-weight:600;font-size:1.2rem}#pedir .form-cluster{margin:1.5rem 0}#pedir .form-via{display:flex}#pedir .form-via   .custom-radio{border:2px solid #dedede;padding:.5rem 1rem;margin:0 .5rem;background-color:#fff;display:flex;align-items:center}#pedir .form-via   .custom-radio   .form-type-option{width:2rem;height:2rem}#pedir .form-via   .custom-radio   .radio-label{color:#212529;font-size:1.7rem;margin:0 0 0 1rem}#pedir .specialty-form{display:flex}#pedir .specialty-form   .specialty-form-input{flex:0 0 25%;margin-right:2rem}#pedir .grid-full-71{grid-area:fullName}#pedir .grid-document-type{grid-area:documentType}#pedir .grid-document-number{grid-area:documentNumber}#pedir .grid-birthday{grid-area:birthday}#pedir .grid-email{grid-area:email}#pedir .grid-phone{grid-area:phone}#pedir .grid-country{grid-area:country}#pedir .grid-city{grid-area:city}#pedir .grid-country-form{grid-area:countryForm;display:grid;grid-template-areas:"country country city city"}#pedir .grid-ua-text-1{grid-area:uaTextOne}#pedir .grid-ua-text-2{grid-area:uaTextTwo}#pedir .grid-ua-name{grid-area:uaName}#pedir .grid-ua-responsible{grid-area:uaResponsible}#pedir .grid-ua-email{grid-area:uaEmail}#pedir .grid-ua-phone{grid-area:uaPhone}#pedir .grid-under-age{grid-area:underAgeForm;display:grid;grid-template-areas:"uaTextOne uaTextOne uaTextOne uaTextOne" "uaName uaName uaResponsible uaResponsible" "uaTextTwo uaTextTwo uaTextTwo uaTextTwo" "uaEmail uaEmail uaPhone uaPhone"}#pedir .grid-city, #pedir .grid-document-number, #pedir .grid-email, #pedir .grid-ua-phone, #pedir .grid-ua-responsible{margin-left:2rem}#pedir .personal-info-grid-container{display:grid;grid-template-areas:"documentType documentType documentNumber documentNumber" "fullName fullName fullName fullName" "birthday birthday email email" "phone phone phone phone" "countryForm countryForm countryForm countryForm" "underAgeForm underAgeForm underAgeForm underAgeForm"}#pedir .source-container{display:flex;flex-wrap:wrap}#pedir .source-container   .custom-checkbox{border:2px solid #dedede;background-color:#fff;padding:.5rem 2rem;margin:.5rem}#pedir .form-link{color:#005823!important}#pedir .select-input, #pedir .text-input{border:2px solid #dedede!important;height:4rem;font-size:1.5rem}#pedir .text-input{background-color:#fff!important}#pedir .select-input{padding:0 1rem}#pedir .textarea-input{border:1px solid #ced4da;font-size:1.5rem}#pedir .text-input::-webkit-input-placeholder, #pedir .textarea-input::-webkit-input-placeholder{font-size:1.5rem}#pedir .text-input::-moz-placeholder, #pedir .textarea-input::-moz-placeholder{font-size:1.5rem}#pedir .text-input::-ms-input-placeholder, #pedir .textarea-input::-ms-input-placeholder{font-size:1.5rem}#pedir .text-input::placeholder, #pedir .textarea-input::placeholder{font-size:1.5rem}#pedir .custom-control-label{font-size:1.7rem;padding-left:1rem}#pedir .custom-control-label::after{width:1.5rem;height:1.5rem;top:.4rem}#pedir .custom-control-label::before{width:1.5rem;height:1.5rem;top:.4rem;margin-right:1rem}#pedir .grid-item{margin-bottom:2rem}#pedir .submit-button{background-color:#a4c465;color:#fff;font-variant:all-small-caps;border-radius:30rem;font-size:1.7rem;font-weight:500}#pedir .submit-button:hover{border:1px solid #a4c465;color:#a4c465;background-color:#fff}@media (max-width:991px){.specialty-form{flex-direction:column}#pedir .specialty-form   .specialty-form-input{margin:0 0 2rem}#pedir .grid-country-form{grid-template-areas:"country" "city"}#pedir .personal-info-grid-container{grid-template-areas:"documentType" "documentNumber" "fullName" "birthday" "email" "phone" "countryForm" "underAgeForm"}#pedir .grid-city, #pedir .grid-document-number, #pedir .grid-email, #pedir .grid-ua-phone, #pedir .grid-ua-responsible{margin-left:0}#pedir .textarea-input{height:10rem}#pedir .custom-control-label{font-size:1.5rem}#pedir .custom-checkbox{margin-bottom:.5rem}}#pedir .submit{display:flex;flex-direction:column;align-items:flex-start}#pedir .general-error-text{padding:1rem;margin:1rem 0;box-shadow:0 0 0 .2rem rgba(255,53,71,.5);border-radius:3px}#pedir .form-title{font-family:"Work Sans",sans-serif;font-size:1.7rem;margin:0 0 1.5rem;font-weight:500}#pedir .form-sub-title{font-size:1.7rem;color:#212529;margin-bottom:1rem}#pedir .form-label{font-family:"Work Sans",sans-serif;color:#000;font-weight:600;font-size:1.2rem}#pedir .form-cluster{margin:1.5rem 0}#pedir .form-via{display:flex}#pedir .form-via   .custom-radio{border:2px solid #dedede;padding:.5rem 1rem;margin:0 .5rem;background-color:#fff;display:flex;align-items:center}#pedir .form-via   .custom-radio   .form-type-option{width:2rem;height:2rem}#pedir .form-via   .custom-radio   .radio-label{color:#212529;font-size:1.7rem;margin:0 0 0 1rem}#pedir .specialty-form{display:flex}#pedir .specialty-form   .specialty-form-input{flex:0 0 25%;margin-right:2rem}#pedir .grid-full-name{grid-area:fullName}#pedir .grid-document-type{grid-area:documentType}#pedir .grid-document-number{grid-area:documentNumber}#pedir .grid-birthday{grid-area:birthday}#pedir .grid-email{grid-area:email}#pedir .grid-phone{grid-area:phone}#pedir .grid-country{grid-area:country}#pedir .grid-city{grid-area:city}#pedir .grid-country-form{grid-area:countryForm;display:grid;grid-template-areas:"country country city city"}#pedir .grid-ua-text-1{grid-area:uaTextOne}#pedir .grid-ua-text-2{grid-area:uaTextTwo}#pedir .grid-ua-name{grid-area:uaName}#pedir .grid-ua-responsible{grid-area:uaResponsible}#pedir .grid-ua-email{grid-area:uaEmail}#pedir .grid-ua-phone{grid-area:uaPhone}#pedir .grid-under-age{grid-area:underAgeForm;display:grid;grid-template-areas:"uaTextOne uaTextOne uaTextOne uaTextOne" "uaName uaName uaResponsible uaResponsible" "uaTextTwo uaTextTwo uaTextTwo uaTextTwo" "uaEmail uaEmail uaPhone uaPhone"}#pedir .grid-city, #pedir .grid-document-number, #pedir .grid-email, #pedir .grid-ua-phone, #pedir .grid-ua-responsible{margin-left:2rem}#pedir .personal-info-grid-container{display:grid;grid-template-areas:"documentType documentType documentNumber documentNumber" "fullName fullName fullName fullName" "birthday birthday email email" "phone phone phone phone" "countryForm countryForm countryForm countryForm" "underAgeForm underAgeForm underAgeForm underAgeForm"}#pedir .source-container{display:flex;flex-wrap:wrap}#pedir .source-container   .custom-checkbox{border:2px solid #dedede;background-color:#fff;padding:.5rem 2rem;margin:.5rem}#pedir .form-link{color:#005823!important}#pedir .select-input, #pedir .text-input{border:2px solid #dedede!important;height:4rem;font-size:1.5rem}#pedir .text-input{background-color:#fff!important}#pedir .select-input{padding:0 1rem}#pedir .textarea-input{border:1px solid #ced4da;font-size:1.5rem}#pedir .text-input::-webkit-input-placeholder, #pedir .textarea-input::-webkit-input-placeholder{font-size:1.5rem}#pedir .text-input::-moz-placeholder, #pedir .textarea-input::-moz-placeholder{font-size:1.5rem}#pedir .text-input::-ms-input-placeholder, #pedir .textarea-input::-ms-input-placeholder{font-size:1.5rem}#pedir .text-input::placeholder, #pedir .textarea-input::placeholder{font-size:1.5rem}#pedir .custom-control-label{font-size:1.7rem;padding-left:1rem}#pedir .custom-control-label::after{width:1.5rem;height:1.5rem;top:.4rem}#pedir .custom-control-label::before{width:1.5rem;height:1.5rem;top:.4rem;margin-right:1rem}#pedir .grid-item{margin-bottom:2rem}#pedir .submit-button{background-color:#a4c465;color:#fff;font-variant:all-small-caps;border-radius:30rem;font-size:1.7rem;font-weight:500}#pedir .submit-button:hover{border:1px solid #a4c465;color:#a4c465;background-color:#fff}@media (max-width:991px){.specialty-form{flex-direction:column}#pedir .specialty-form   .specialty-form-input{margin:0 0 2rem}#pedir .grid-country-form{grid-template-areas:"country" "city"}#pedir .personal-info-grid-container{grid-template-areas:"documentType" "documentNumber" "fullName" "birthday" "email" "phone" "countryForm" "underAgeForm"}#pedir .grid-city, #pedir .grid-document-number, #pedir .grid-email, #pedir .grid-ua-phone, #pedir .grid-ua-responsible{margin-left:0}#pedir .textarea-input{height:10rem}#pedir .custom-control-label{font-size:1.5rem}#pedir .custom-checkbox{margin-bottom:.5rem}}#pedir .submit{display:flex;flex-direction:column;align-items:flex-start}#pedir .general-error-text{padding:1rem;margin:1rem 0;box-shadow:0 0 0 .2rem rgba(255,53,71,.5);border-radius:3px}
+#pedir textarea{font-size: 2rem !important;}
+#pedir #ui-datepicker-div{font-size: 2rem !important;}
+@media (max-width: 768px)
+{
+    #navbarfull
+    {
+      display: none !important;
+    }
+}
+@media (min-width: 768px)
+{
+    #navbarfull2
+    {
+      display: none !important;
+    }
+}

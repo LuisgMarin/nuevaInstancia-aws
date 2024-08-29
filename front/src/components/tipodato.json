@@ -1,0 +1,23 @@
+{
+    "alert" : {
+        "status" : true,
+        "msj" : "Paciente con bajo peso al nacer",
+        "value" : 2500,
+        "cond" : "menor"
+    },
+    "tipo_dato" : {
+        "_id" : "5d94fd1150b8d44ebe2fce81",
+        "nombre" : "numero",
+        "tipo" : "numerico"
+    },
+    "restricciones" : {
+        "status":  true,
+        "msj" : "valor minimo",
+        "cond" : "mayor",
+        "value":0
+    },
+    "_id" : "5d7fef77f460d00c872f76d7",
+    "nombre" : "Gramos de peso al nacer",
+    "valores" : null,
+    "resultado" : ""
+}

@@ -1,0 +1,2 @@
+let res = require('../config/serve')
+res.server;
